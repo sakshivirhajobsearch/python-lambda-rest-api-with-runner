@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Python
+- **Detected Technologies:** Python, Kubernetes / K8s
 - **GitHub Topics:** None
 
 ---
